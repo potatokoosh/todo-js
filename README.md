@@ -10,5 +10,5 @@ npm install
 
 Y para construir el build, recuerden:
 ```
-npm build
+npm run build
 ``` 
